@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/touseef/Documents/amplify-test-app/app/page.tsx"],"sourcesContent":["export default function ComingSoon() {\n  return (\n    <main style={{ \n      display: 'flex', \n      flexDirection: 'column', \n      alignItems: 'center', \n      justifyContent: 'center', \n      height: '100vh',\n      backgroundColor: '#000',\n      color: '#fff',\n      fontFamily: 'sans-serif'\n    }}>\n      <h1 style={{ fontSize: '3rem', marginBottom: '1rem' }}>\n        Coming Soon\n      </h1>\n      <p style={{ fontSize: '1.2rem', color: '#888' }}>\n        We are building something amazing. Stay tuned!\n      </p>\n    </main>\n  );\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,8OAAC;QAAK,OAAO;YACX,SAAS;YACT,eAAe;YACf,YAAY;YACZ,gBAAgB;YAChB,QAAQ;YACR,iBAAiB;YACjB,OAAO;YACP,YAAY;QACd;;0BACE,8OAAC;gBAAG,OAAO;oBAAE,UAAU;oBAAQ,cAAc;gBAAO;0BAAG;;;;;;0BAGvD,8OAAC;gBAAE,OAAO;oBAAE,UAAU;oBAAU,OAAO;gBAAO;0BAAG;;;;;;;;;;;;AAKvD"}}]
+}
